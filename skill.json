@@ -1,0 +1,15 @@
+{
+  "name": "genpark-agent-budget-rate-limit-throttle-skill",
+  "version": "1.0.0",
+  "description": "Token bucket rate limiter and budget throttle engine protecting downstream APIs and managing agent session token costs.",
+  "author": "GenPark AI",
+  "license": "MIT",
+  "keywords": [
+    "rate-limiter",
+    "token-bucket",
+    "budget",
+    "throttle",
+    "genpark",
+    "mcp"
+  ]
+}
